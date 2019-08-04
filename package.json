@@ -1,0 +1,16 @@
+{
+  "name": "bettersql",
+  "version": "0.0.1",
+  "description": "A better MySQL ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "jonahisadev",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "mysql2": "^1.6.5",
+    "uuid": "^3.3.2"
+  }
+}
